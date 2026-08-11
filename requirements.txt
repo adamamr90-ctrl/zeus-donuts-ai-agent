@@ -1,0 +1,10 @@
+streamlit
+langgraph
+langchain-groq
+langchain-core
+gspread
+google-auth
+langchain-chroma
+langchain-community
+sentence-transformers
+python-dotenv
